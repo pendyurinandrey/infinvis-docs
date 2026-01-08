@@ -4,9 +4,11 @@ id: infinvis-intro
 slug: /
 ---
 
-# Infinvis Intro
+# InFinVis Intro
 
-Infinvis is a collection of services that helps users build systems for investment portfolio analysis. Because all components of the collection are licensed under GPLv3, they are not intended to be part of any commercial system. Instead, they should be used in personal or open-source projects.
+InFinVis is a collection of services that helps users build systems for investment portfolio analysis. Because all components of the collection are licensed under GPLv3, they are not intended to be part of any commercial system. Instead, they should be used in personal or open-source projects.
+
+![High-level architecture](./assets/c1-diagram.drawio.svg)
 
 The collection includes:
 
